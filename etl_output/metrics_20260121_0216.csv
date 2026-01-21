@@ -1,0 +1,24 @@
+item_name,total_quantity,metric,category,revenue,hour,order_count
+Hamburger,622.0,top_items_by_quantity,,,,
+Edamame,620.0,top_items_by_quantity,,,,
+Korean Beef Bowl,588.0,top_items_by_quantity,,,,
+Cheeseburger,583.0,top_items_by_quantity,,,,
+French Fries,571.0,top_items_by_quantity,,,,
+,,revenue_by_category,American,28237.75,,
+,,revenue_by_category,Asian,46720.65,,
+,,revenue_by_category,Italian,49462.7,,
+,,revenue_by_category,Mexican,34796.799999999996,,
+,,busiest_hour_of_day,,,12.0,1672.0
+,,busiest_hour_of_day,,,13.0,1575.0
+,,busiest_hour_of_day,,,17.0,1370.0
+,,busiest_hour_of_day,,,18.0,1307.0
+,,busiest_hour_of_day,,,19.0,1085.0
+,,busiest_hour_of_day,,,16.0,1054.0
+,,busiest_hour_of_day,,,14.0,968.0
+,,busiest_hour_of_day,,,20.0,889.0
+,,busiest_hour_of_day,,,15.0,751.0
+,,busiest_hour_of_day,,,11.0,630.0
+,,busiest_hour_of_day,,,21.0,608.0
+,,busiest_hour_of_day,,,22.0,309.0
+,,busiest_hour_of_day,,,23.0,11.0
+,,busiest_hour_of_day,,,10.0,5.0
